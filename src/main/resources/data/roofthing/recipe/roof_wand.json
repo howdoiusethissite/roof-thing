@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"C": "minecraft:copper_ingot",
+		"S": "minecraft:stick"
+	},
+	"pattern": [
+		"  C",
+		" S ",
+		"S  "
+	],
+	"result": {
+		"id": "roofthing:roof_wand"
+	}
+}

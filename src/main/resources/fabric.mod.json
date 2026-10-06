@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "roofthing",
+	"version": "${version}",
+	"name": "Roof Thing",
+	"description": "A wand that roofs your house.",
+	"authors": ["roof-thing"],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.roofthing.RoofThing"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
